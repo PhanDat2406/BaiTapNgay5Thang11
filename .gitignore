@@ -1,0 +1,17 @@
+# Bỏ qua thư mục Visual Studio
+.vs/
+
+# Bỏ qua thư mục build
+[Bb]in/
+[Oo]bj/
+
+# Bỏ qua file cấu hình cá nhân của Visual Studio
+*.user
+*.userosscache
+*.sln.docstates
+
+# Bỏ qua file log
+*.log
+
+# Backup docs
+_backup_docs/
